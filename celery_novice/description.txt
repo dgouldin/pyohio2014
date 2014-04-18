@@ -1,0 +1,6 @@
+Distributed applications are hard. Celery provides the tools to make basic
+distributed work simple and complex work possible. This talk is intended for
+people with some Python experience who have not yet used Celery. By the end, you
+will feel comfortable setting up a message queue, writing asynchronous tasks,
+logging, testing, and debugging those tasks in both Django web and general
+Python applications.
