@@ -1,7 +1,5 @@
-Celery is a great tool for asynchronously firing off an email from your web
-application. But what happens when your application grows beyond simple "set it
-and forget it" tasks? This talk explores the workflow primitives Celery provides
-and how to effectively use them to create complex distributed applications. It
-assumes working knowledge of Python and Celery. By the end, you will have a
-better understanding of how to structure significant distributed work in a way
-that is both scalable and resistent to failure.
+Celery is great for asynchronously sending emails from your web app.  But what
+happens when you grow beyond simple "set it and forget it" tasks? This talk
+explores Celery's workflow primitives and how to create complex distributed
+applications. It assumes knowledge of Python and Celery. By the end, you
+will better understand how to structure distributed work that robustly scales.
