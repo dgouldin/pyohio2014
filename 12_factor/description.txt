@@ -1,0 +1,4 @@
+Python makes building web applications easy. But deploying, scaling, and
+maintaining them can prove challenging. The twelve-factor app is a methodology
+for building SaaS apps with these principles in mind. This talk will help equip
+you with a set of best practices for designing modern, elegant web applications.
