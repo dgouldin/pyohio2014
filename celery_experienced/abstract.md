@@ -22,3 +22,12 @@
  * 1 API call per task
  * Never block on another task
  * Always set timeouts
+
+# When tasks fail
+ * Parallel task execution failures
+ * Failure in dependent or series tasks
+
+# Monitoring
+ * Log collation
+ * Transaction tracing
+ * Graphs (or "When am I done?")
